@@ -16,16 +16,7 @@ Este projeto permite conversas por voz em múltiplos idiomas, fundamentadas no a
 - **Acervo Freudiano** → Obras completas digitalizadas para fundamentar respostas.
 - Python + Jupyter Notebook → Desenvolvimento e experimentação.
 
-## 📂 Estrutura do Projeto
-projetos/
-└── assistente_de_voz/
-    ├── src/                # Código modular (STT, TTS, integração ChatGPT)
-    ├── notebooks/          # Protótipos e experimentos
-    ├── docs/               # Documentação e exemplos
-    ├── data/               # Acervo Freudiano digitalizado
-    └── Assistente_de_Voz_Multi_Idiomas_Com_Whisper_e_ChatGPT.ipynb
-
 ## ⚙️ Como Executar
 Clone este repositório:
    ```bash
-   git clone https://github.com/aurelioparreira/Assistente-virtual-freudiano.git
+   git clone https://github.com/aurelioparreira/Assistente_virtual_freudiano.git
